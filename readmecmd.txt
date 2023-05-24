@@ -1,0 +1,3 @@
+-npx create-next-app --typescript
+-npm install -D tailwindcss postcss autopre
+-npm i -D prisma
